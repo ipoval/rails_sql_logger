@@ -1,2 +1,2 @@
 # rails_sql_logger
-Log SQL queries in your Rails App
+SQL log subscriber for your Rails App
